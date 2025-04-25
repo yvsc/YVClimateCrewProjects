@@ -7,7 +7,7 @@
 @media screen and (min-width:30em) {
   #sidebar {
     max-height: calc(100vh - 2rem);
-    height: 260px;
+    height: 360px;
     width: 260px;
   }
 }
